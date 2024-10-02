@@ -43,3 +43,6 @@ The program reads data from an existing database (which could be stored in CSV, 
 ### 4. Reporting Discrepancies
 Any discrepancies found between the extracted PDF data and the existing database are logged and reported, allowing for manual review and correction if necessary.
 
+### Privacy Warning
+As of writing this ReadME, I am currently in the process of creating fake data to demonstrate the program while respecting the privacy of the company's clients. Any incompletion of this repository at the time of the visit is due to circumstances like this. 
+
